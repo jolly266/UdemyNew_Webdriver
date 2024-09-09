@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-05T23:15:39 IST" name="Default suite" finished-at="2024-08-05T23:15:48 IST" duration-ms="9161">
+    <groups>
+    </groups>
+    <test started-at="2024-08-05T23:15:39 IST" name="Default test" finished-at="2024-08-05T23:15:48 IST" duration-ms="9161">
+      <class name="com.Ecommerce.TestCases.ConfirmationPageTest">
+        <test-method is-config="true" signature="loadconfig()[pri:0, instance:com.Ecommerce.TestCases.ConfirmationPageTest@69e153c5]" started-at="2024-08-05T23:15:39 IST" name="loadconfig" finished-at="2024-08-05T23:15:39 IST" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadconfig -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.Ecommerce.TestCases.ConfirmationPageTest@69e153c5]" started-at="2024-08-05T23:15:39 IST" name="launchBrowser" finished-at="2024-08-05T23:15:43 IST" duration-ms="3619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="orderPageTest()[pri:0, instance:com.Ecommerce.TestCases.ConfirmationPageTest@69e153c5]" started-at="2024-08-05T23:15:43 IST" name="orderPageTest" finished-at="2024-08-05T23:15:48 IST" duration-ms="5080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderPageTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.Ecommerce.TestCases.ConfirmationPageTest@69e153c5]" started-at="2024-08-05T23:15:48 IST" name="closeBrowser" finished-at="2024-08-05T23:15:48 IST" duration-ms="353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.Ecommerce.TestCases.ConfirmationPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
